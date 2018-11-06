@@ -33,7 +33,7 @@
 	<div class="formulaire">
 
 		<form action="index.php" method="get">
-			<div><input type="text" name="email" placeholder="email"></div>
+			<div><input type="email" name="email" placeholder="email"></div>
 			<div><input type="password" name="password" placeholder="mot de passe"></div>
 			<div><input type="submit" name="envoyer"></div>
 		</form>
